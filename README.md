@@ -1,2 +1,2 @@
 # solved-problems
-Repository for minor problems solved.
+Repository for problems solved.
