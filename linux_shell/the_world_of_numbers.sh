@@ -1,9 +1,9 @@
 #!/bin/zsh
 
-read x
-read y
+read first_number
+read second_number
 
-echo $((x + y))
-echo $((x - y))
-echo $((x * y))
-echo $((x / y))
+echo $((first_number + second_number))
+echo $((first_number - second_number))
+echo $((first_number * second_number))
+echo $((first_number / second_number))
