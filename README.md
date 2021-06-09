@@ -1,2 +1,2 @@
-# solved-problems
-Repository for problems solved.
+# solved-problems-and-amusing-snippets
+Repository for problems solved and amusing snippets.
